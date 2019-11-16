@@ -5,6 +5,5 @@ def parrot
 end
 
 def Squawk!(phrase="Squawk!")
-  puts phrase
   return phrase
 end 
